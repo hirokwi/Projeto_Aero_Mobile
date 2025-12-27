@@ -1,2 +1,2 @@
 # Projeto_Aero
-Projeto do curso de Desenvolvimento de Sistemas voltado ao cadastro e ao gerenciamento de um aeroporto funcional, desenvolvido em Node.js e utilizando operações CRUD em banco de dados. (Full-Stack)
+Projeto desenvolvido no curso de Desenvolvimento de Sistemas com o objetivo de criar um sistema para cadastro e gerenciamento de um aeroporto funcional. O sistema foi feito em Node.js, utilizando um banco de dados com operações CRUD em uma aplicação Full-Stack. Ele permite controlar voos, passagens, bagagens, usuários e informações dos aeroportos, facilitando a organização e o gerenciamento dos dados.
